@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bugajjj
-- 👀 I’m interested in CyberSecurity (mostly in Penetration Testings), Python, IoT and Mobile
+- 👀 I’m interested in CyberSecurity (mostly in Penetration Testings), Python, WEB3 and Mobile
 - 🌱 I’m currently learning to reach OSCP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
