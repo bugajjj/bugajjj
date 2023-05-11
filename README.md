@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bugajjj
-- 👀 I’m interested in CyberSecurity (mostly in Penetration Testings), Python and WEB3
+- 👀 I’m interested in CyberSecurity (mostly in red-teaming), Python, Front-End and WEB3
 - 🌱 I’m currently learning to reach Master of Science in Computer Science and to know more about NFTs and creating quality websites
 - 💞️ I’m looking to collaborate on some blockchain/NFT/smartcontracts projects right now
 - 📫 How to reach me fastest contact via:
