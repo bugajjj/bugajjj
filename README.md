@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bugajjj
 - 👀 I’m interested in CyberSecurity (mostly in red-teaming), Python and WEB3
-- 🌱 I’m currently learning to reach Master of Science in Computer Science and to know more about NFTs and creating quality websites
+- 🌱 I’m currently learning to reach Master of Science in Computer Science specialization Cyber Security and to know more about NFTs and creating quality websites
 - 💞️ I’m looking to collaborate on some blockchain/NFT/smartcontracts projects right now
 - 📫 How to reach me fastest contact via:
 LinkedIn: https://www.linkedin.com/in/david-salwa/
